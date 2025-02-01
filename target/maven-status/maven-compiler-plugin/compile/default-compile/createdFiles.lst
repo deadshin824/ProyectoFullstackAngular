@@ -1,0 +1,6 @@
+com\example\ProyectoFullstackAngular\Controller\ControladorEmpleados.class
+com\example\ProyectoFullstackAngular\ProyectoFullstackAngularApplication.class
+com\example\ProyectoFullstackAngular\Respository\RepositorioEmpleado.class
+com\example\ProyectoFullstackAngular\Entity\Empleado.class
+com\example\ProyectoFullstackAngular\Services\ServicioEmpleado.class
+com\example\ProyectoFullstackAngular\Services\ServiciosE.class
